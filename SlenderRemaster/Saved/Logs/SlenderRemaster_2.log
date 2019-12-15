@@ -1923,3 +1923,256 @@ Make sure 'Options_resolution_C' has been compiled for  Load Things Forsavingand
 [2019.12.15-01.27.41:226][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SlendyGameInstance]
 [2019.12.15-01.27.41:236][486]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/SlendyGameInstance_Auto14F89B88C4249EDB44F590BA523F8B9FF.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Blueprints/SlendyGameInstance_Auto1.uasset'
 [2019.12.15-01.27.41:236][486]LogFileHelpers: Auto-saving content packages took 0.313
+[2019.12.15-01.33.06:746][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.33.07:082][156]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.33.07:118][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.33.07:119][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.33.07:119][156]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:33:07 PM)
+[2019.12.15-01.33.07:119][156]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.33.07:121][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001990s)
+[2019.12.15-01.33.07:122][156]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.33.07:122][156]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2019.12.15-01.33.07:122][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003412s)
+[2019.12.15-01.33.07:171][156]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.15-01.33.07:211][156]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.33.07:222][156]LogInit: FAudioDevice initialized.
+[2019.12.15-01.33.07:234][156]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.33.07:235][156]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.33.07
+[2019.12.15-01.33.07:235][156]LogWorld: Bringing up level for play took: 0.000741
+[2019.12.15-01.33.07:235][156]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.15-01.33.07:237][156]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.33.07:237][156]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map 0.082
+[2019.12.15-01.33.07:238][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.33.08:996][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.33.08:996][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.33.08:996][353]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.33.08:997][353]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.33.09:022][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.33.09:022][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.33.09:066][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.33.09:071][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.12.15-01.33.09:113][355]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.15-01.33.12:128][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.34.42:707][250]SourceControl: fatal: /Script: '/Script' is outside repository
+[2019.12.15-01.38.06:178][194]BlueprintLog: New page: Compile The_Player
+[2019.12.15-01.38.06:185][194]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Flashlight/Gun' for  InputAction Flashlight/Gun
+[2019.12.15-01.38.06:185][194]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Run' for  InputAction Run
+[2019.12.15-01.38.06:185][194]LogBlueprint: Warning: [Compiler The_Player] Input Axis Event references unknown Axis 'Look_Up_Down' for  InputAxis Look_Up_Down
+[2019.12.15-01.38.06:185][194]LogBlueprint: Warning: [Compiler The_Player] Input Axis Event references unknown Axis 'Rotate' for  InputAxis Rotate
+[2019.12.15-01.38.06:568][194]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.12.15-01.40.10:416][471]BlueprintLog: New page: Compile The_Player
+[2019.12.15-01.40.10:423][471]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Flashlight/Gun' for  InputAction Flashlight/Gun
+[2019.12.15-01.40.10:423][471]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Run' for  InputAction Run
+[2019.12.15-01.40.10:742][471]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.12.15-01.40.11:497][550]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.40.11:531][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.40.11:531][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.40.11:532][550]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:40:11 PM)
+[2019.12.15-01.40.11:532][550]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.40.11:534][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2019.12.15-01.40.11:535][550]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.40.11:535][550]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2019.12.15-01.40.11:535][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003519s)
+[2019.12.15-01.40.11:584][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2019.12.15-01.40.11:621][550]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.40.11:631][550]LogInit: FAudioDevice initialized.
+[2019.12.15-01.40.11:645][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.40.11:646][550]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.40.11:648][550]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.40.11
+[2019.12.15-01.40.11:648][550]LogWorld: Bringing up level for play took: 0.001299
+[2019.12.15-01.40.11:649][550]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.15-01.40.11:650][550]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.15-01.40.11:651][550]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.40.11:653][550]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map 0.499
+[2019.12.15-01.40.11:654][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.40.11:670][551]LogRenderer: Reallocating scene render targets to support 1280x720 Format 9 NumSamples 1 (Frame:1).
+[2019.12.15-01.40.20:130][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.40.20:131][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.40.20:131][459]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.40.20:151][459]LogSlate: Window 'SlenderRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.15-01.40.20:156][459]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.40.20:177][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.40.20:178][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.40.20:229][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.15-01.40.20:275][460]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.15-01.40.44:151][296]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.40.44:182][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.40.44:183][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.40.44:183][296]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:40:44 PM)
+[2019.12.15-01.40.44:183][296]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.40.44:185][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001785s)
+[2019.12.15-01.40.44:186][296]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.40.44:186][296]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2019.12.15-01.40.44:186][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003166s)
+[2019.12.15-01.40.44:227][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.12.15-01.40.44:264][296]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.40.44:275][296]LogInit: FAudioDevice initialized.
+[2019.12.15-01.40.44:282][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.40.44:283][296]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.40.44:284][296]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.40.44
+[2019.12.15-01.40.44:285][296]LogWorld: Bringing up level for play took: 0.001055
+[2019.12.15-01.40.44:285][296]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.15-01.40.44:287][296]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.15-01.40.44:287][296]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.40.44:289][296]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map -0.865
+[2019.12.15-01.40.44:290][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.13:134][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.13:135][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.41.13:135][426]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.41.13:155][426]LogSlate: Window 'SlenderRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.15-01.41.13:161][426]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.41.13:180][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.41.13:181][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.13:233][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.15-01.41.13:279][427]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.15-01.41.36:499][141]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.41.36:532][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.36:533][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.41.36:533][141]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:41:36 PM)
+[2019.12.15-01.41.36:533][141]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.41.36:535][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001850s)
+[2019.12.15-01.41.36:536][141]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.41.36:536][141]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.12.15-01.41.36:536][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003378s)
+[2019.12.15-01.41.36:580][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2019.12.15-01.41.36:620][141]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.41.36:633][141]LogInit: FAudioDevice initialized.
+[2019.12.15-01.41.36:639][141]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.41.36:640][141]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.41.36
+[2019.12.15-01.41.36:641][141]LogWorld: Bringing up level for play took: 0.000954
+[2019.12.15-01.41.36:641][141]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.15-01.41.36:643][141]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.41.36:643][141]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map -0.511
+[2019.12.15-01.41.36:644][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.51:808][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.51:809][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.41.51:809][893]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.41.51:809][893]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.41.51:826][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.41.51:827][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.41.51:875][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.41.51:880][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.12.15-01.41.51:918][895]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.15-01.41.53:638][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.42.32:441][663]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.42.32:476][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.32:477][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.42.32:477][663]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:42:32 PM)
+[2019.12.15-01.42.32:477][663]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.42.32:479][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001863s)
+[2019.12.15-01.42.32:480][663]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.42.32:480][663]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2019.12.15-01.42.32:480][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003282s)
+[2019.12.15-01.42.32:521][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.15-01.42.32:557][663]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.42.32:568][663]LogInit: FAudioDevice initialized.
+[2019.12.15-01.42.32:580][663]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.42.32:582][663]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.42.32
+[2019.12.15-01.42.32:583][663]LogWorld: Bringing up level for play took: 0.001628
+[2019.12.15-01.42.32:583][663]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.15-01.42.32:586][663]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.42.32:587][663]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map -0.568
+[2019.12.15-01.42.32:588][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.36:724][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.36:724][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.42.36:725][148]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.42.36:725][148]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.42.36:745][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.42.36:746][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.36:787][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.42.36:792][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.15-01.42.36:827][150]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.15-01.42.38:913][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.42.51:072][819]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.42.51:105][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.51:105][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.42.51:105][819]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:42:51 PM)
+[2019.12.15-01.42.51:106][819]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.42.51:108][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002044s)
+[2019.12.15-01.42.51:109][819]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.42.51:109][819]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2019.12.15-01.42.51:109][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003633s)
+[2019.12.15-01.42.51:150][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.12.15-01.42.51:188][819]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.42.51:198][819]LogInit: FAudioDevice initialized.
+[2019.12.15-01.42.51:209][819]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.42.51:210][819]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.42.51
+[2019.12.15-01.42.51:210][819]LogWorld: Bringing up level for play took: 0.000802
+[2019.12.15-01.42.51:210][819]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.15-01.42.51:212][819]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.42.51:212][819]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map 0.057
+[2019.12.15-01.42.51:212][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.58:208][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.58:209][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.42.58:209][648]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.42.58:209][648]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.42.58:221][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.42.58:221][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.42.58:265][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.42.58:270][648]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.15-01.42.58:313][651]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.15-01.42.59:757][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.43.11:488][201]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.43.11:521][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.11:522][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.43.11:522][201]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:43:11 PM)
+[2019.12.15-01.43.11:522][201]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.43.11:524][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001836s)
+[2019.12.15-01.43.11:525][201]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.43.11:525][201]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2019.12.15-01.43.11:525][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003315s)
+[2019.12.15-01.43.11:566][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.15-01.43.11:603][201]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.43.11:613][201]LogInit: FAudioDevice initialized.
+[2019.12.15-01.43.11:622][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.43.11:622][201]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.43.11:624][201]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.43.11
+[2019.12.15-01.43.11:624][201]LogWorld: Bringing up level for play took: 0.001099
+[2019.12.15-01.43.11:624][201]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.15-01.43.11:626][201]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.15-01.43.11:626][201]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.43.11:628][201]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map 0.473
+[2019.12.15-01.43.11:628][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.16:862][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.16:863][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.43.16:863][823]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.43.16:882][823]LogSlate: Window 'SlenderRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.15-01.43.16:885][823]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.43.16:906][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.43.16:907][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.16:959][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.15-01.43.16:972][824]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.15-01.43.42:831][826]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.43.42:864][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.42:864][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.43.42:864][826]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:43:42 PM)
+[2019.12.15-01.43.42:864][826]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.43.42:866][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001815s)
+[2019.12.15-01.43.42:867][826]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.43.42:868][826]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2019.12.15-01.43.42:868][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003367s)
+[2019.12.15-01.43.42:908][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.15-01.43.42:945][826]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.43.42:955][826]LogInit: FAudioDevice initialized.
+[2019.12.15-01.43.42:964][826]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.43.42:965][826]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.43.42
+[2019.12.15-01.43.42:966][826]LogWorld: Bringing up level for play took: 0.001016
+[2019.12.15-01.43.42:966][826]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.15-01.43.42:968][826]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.43.42:968][826]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map -0.187
+[2019.12.15-01.43.42:968][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.45:599][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.45:600][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.43.45:600][136]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.43.45:600][136]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.43.45:607][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.43.45:608][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.43.45:651][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.43.45:656][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.15-01.43.45:704][139]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.15-01.43.50:494][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.43.50:645][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_map" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.15-01.43.50:685][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.15-01.43.50:969][703]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Test_mapC5A1EED44F396F5394280190EFD1DAFF.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map.umap'
+[2019.12.15-01.43.51:103][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_map_BuiltData" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map_BuiltData.uasset" SILENT=true
+[2019.12.15-01.43.51:136][703]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Test_map_BuiltData3AA9314141073B7810F7578462750E6D.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map_BuiltData.uasset'
