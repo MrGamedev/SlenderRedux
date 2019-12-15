@@ -2176,3 +2176,227 @@ Make sure 'Options_resolution_C' has been compiled for  Load Things Forsavingand
 [2019.12.15-01.43.50:969][703]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Test_mapC5A1EED44F396F5394280190EFD1DAFF.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map.umap'
 [2019.12.15-01.43.51:103][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_map_BuiltData" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map_BuiltData.uasset" SILENT=true
 [2019.12.15-01.43.51:136][703]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Test_map_BuiltData3AA9314141073B7810F7578462750E6D.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map_BuiltData.uasset'
+[2019.12.15-01.45.46:917][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-01.45.49:252][958]BlueprintLog: New page: Compile The_Player
+[2019.12.15-01.45.49:260][958]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Flashlight/Gun' for  InputAction Flashlight/Gun
+[2019.12.15-01.45.49:260][958]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Run' for  InputAction Run
+[2019.12.15-01.45.49:566][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.12.15-01.45.50:720][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-01.45.50:753][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.45.50:753][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-01.45.50:754][ 78]PIE: New page: PIE session: Test_map (Dec 14, 2019, 1:45:50 PM)
+[2019.12.15-01.45.50:754][ 78]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-01.45.50:756][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001833s)
+[2019.12.15-01.45.50:757][ 78]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-01.45.50:757][ 78]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2019.12.15-01.45.50:757][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003283s)
+[2019.12.15-01.45.50:799][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.12.15-01.45.50:836][ 78]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-01.45.50:846][ 78]LogInit: FAudioDevice initialized.
+[2019.12.15-01.45.50:855][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.45.50:855][ 78]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-01.45.50:857][ 78]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-19.45.50
+[2019.12.15-01.45.50:857][ 78]LogWorld: Bringing up level for play took: 0.001337
+[2019.12.15-01.45.50:857][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.15-01.45.50:859][ 78]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.15-01.45.50:859][ 78]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-01.45.50:862][ 78]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map -0.293
+[2019.12.15-01.45.50:862][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.45.54:045][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.45.54:046][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-01.45.54:046][431]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-01.45.54:065][431]LogSlate: Window 'SlenderRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.15-01.45.54:068][431]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-01.45.54:089][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-01.45.54:090][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-01.45.54:143][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.15-01.45.54:190][432]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.15-01.53.53:776][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.15-01.53.53:777][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_map" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Test_map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.15-01.53.54:048][598]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Test_map_Auto261B46D454AC4B3055D51D7A371B4222C.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Test_map_Auto2.umap'
+[2019.12.15-01.53.54:052][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test_map' took 0.319
+[2019.12.15-01.53.54:052][598]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.319
+[2019.12.15-01.53.54:054][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/The_Player] ([1] browsable assets)...
+[2019.12.15-01.53.54:069][598]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/The_Player.The_Player]
+[2019.12.15-01.53.54:069][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/The_Player]
+[2019.12.15-01.53.54:069][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/The_Player" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Blueprints/The_Player_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.15-01.53.54:139][598]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/The_Player_Auto2E59AAC5A4AB8851809219FA2B526E85A.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Blueprints/The_Player_Auto2.uasset'
+[2019.12.15-01.53.54:140][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WidgetBlueprint/Options_UX] ([1] browsable assets)...
+[2019.12.15-01.53.54:141][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/WidgetBlueprint/Options_UX]
+[2019.12.15-01.53.54:228][598]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Options_UX_Auto227AD03244688171C2F5939A7C41FE6A5.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/WidgetBlueprint/Options_UX_Auto2.uasset'
+[2019.12.15-01.53.54:229][598]LogFileHelpers: Auto-saving content packages took 0.175
+[2019.12.15-03.08.07:705][455]BlueprintLog: New page: Compile The_Player
+[2019.12.15-03.08.07:714][455]LogBlueprint: Warning: [Compiler The_Player] InputAction Event references unknown Action 'Run' for  InputAction Run
+[2019.12.15-03.08.08:088][455]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.12.15-03.08.08:624][505]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-03.08.08:656][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-03.08.08:656][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-03.08.08:656][505]PIE: New page: PIE session: Test_map (Dec 14, 2019, 3:08:08 PM)
+[2019.12.15-03.08.08:657][505]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_map
+[2019.12.15-03.08.08:659][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001896s)
+[2019.12.15-03.08.08:660][505]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-03.08.08:660][505]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2019.12.15-03.08.08:660][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_map.Test_map to /Game/UEDPIE_0_Test_map.Test_map (0.003470s)
+[2019.12.15-03.08.08:705][505]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.12.15-03.08.08:743][505]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-03.08.08:755][505]LogInit: FAudioDevice initialized.
+[2019.12.15-03.08.08:763][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.08.08:764][505]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-03.08.08:765][505]LogWorld: Bringing World /Game/UEDPIE_0_Test_map.Test_map up for play (max tick rate 0) at 2019.12.14-21.08.08
+[2019.12.15-03.08.08:766][505]LogWorld: Bringing up level for play took: 0.001161
+[2019.12.15-03.08.08:766][505]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.15-03.08.08:767][505]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.15-03.08.08:768][505]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-03.08.08:771][505]PIE: Play in editor start time for /Game/UEDPIE_0_Test_map -0.384
+[2019.12.15-03.08.08:771][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-03.08.16:811][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-03.08.16:812][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.08.16:812][405]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_map
+[2019.12.15-03.08.16:831][405]LogSlate: Window 'SlenderRemaster Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.15-03.08.16:836][405]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.08.16:858][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-03.08.16:859][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test_map.Test_map:PersistentLevel' has LevelScriptBlueprint '/Game/Test_map.Test_map:PersistentLevel.Test_map' with GeneratedClass '/Game/Test_map.Test_map_C' with ClassGeneratedBy '/Game/Test_map.Test_map:PersistentLevel.Test_map'
+[2019.12.15-03.08.16:911][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.12.15-03.08.16:962][406]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.15-03.08.29:305][800]LogAIModule: Creating AISystem for world Player_Movement_Test
+[2019.12.15-03.08.29:311][800]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Player_Movement_Test.Player_Movement_Test
+[2019.12.15-03.08.29:355][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.15-03.08.30:547][800]LogSlate: Window 'Save Content' being destroyed
+[2019.12.15-03.08.30:758][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SlendyGameInstance" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Blueprints/SlendyGameInstance.uasset" SILENT=true
+[2019.12.15-03.08.30:769][800]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/SlendyGameInstance0C1A48A54453564ACD1FA5857121D0B3.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Blueprints/SlendyGameInstance.uasset'
+[2019.12.15-03.08.30:964][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/The_Player" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Blueprints/The_Player.uasset" SILENT=true
+[2019.12.15-03.08.31:033][800]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/The_Player7B668B734AABF795A844C1A26C3A8516.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Blueprints/The_Player.uasset'
+[2019.12.15-03.08.31:042][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_map" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.15-03.08.31:081][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.15-03.08.31:391][800]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Test_map3ED6C0EC485178C5800EB8B654D89EDB.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Test_map.umap'
+[2019.12.15-03.08.31:437][800]LogFileHelpers: Saving map 'Test_map' took 0.395
+[2019.12.15-03.08.31:438][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/Options_resolution" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/WidgetBlueprint/Options_resolution.uasset" SILENT=true
+[2019.12.15-03.08.31:553][800]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Options_resolution1323F23042F62FD76F5DC19AB8611BAF.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/WidgetBlueprint/Options_resolution.uasset'
+[2019.12.15-03.08.31:559][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WidgetBlueprint/Options_UX" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/WidgetBlueprint/Options_UX.uasset" SILENT=true
+[2019.12.15-03.08.31:645][800]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Options_UX5E1D5A8142F2D867B69C5EBA708E8E4A.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/WidgetBlueprint/Options_UX.uasset'
+[2019.12.15-03.08.31:654][800]Cmd: MAP LOAD FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Levels/Player_Movement_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.15-03.08.31:655][800]LightingResults: New page: Lighting Build
+[2019.12.15-03.08.31:655][800]LoadErrors: New page: Loading map: Player_Movement_Test.umap
+[2019.12.15-03.08.31:656][800]LogWorld: UWorld::CleanupWorld for Test_map, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.08.31:658][800]MapCheck: New page: Map Check
+[2019.12.15-03.08.31:658][800]LightingResults: New page: Lighting Build
+[2019.12.15-03.08.31:703][800]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.12.15-03.08.31:706][800]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/ItemMap) is flushing async loading
+[2019.12.15-03.08.31:706][800]LogStreaming: Display: Flushing async loaders.
+[2019.12.15-03.08.32:290][800]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.12.15-03.08.32:290][800]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.12.15-03.08.32:290][800]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.12.15-03.08.32:290][800]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.12.15-03.08.33:547][800]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.15-03.08.33:646][800]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.15-03.08.33:684][800]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.15-03.08.33:684][800]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2019.12.15-03.08.33:685][800]LogFileHelpers: Loading map 'Player_Movement_Test' took 2.035
+[2019.12.15-03.08.33:804][800]LogAIModule: Creating AISystem for world Test_map
+[2019.12.15-03.08.37:512][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Green)
+[2019.12.15-03.08.39:270][392]Cmd: DELETE
+[2019.12.15-03.08.39:270][392]Cmd: ACTOR DELETE
+[2019.12.15-03.08.39:277][392]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.15-03.08.39:300][392]LogAIModule: Creating AISystem for world Player_Movement_Test
+[2019.12.15-03.08.39:371][392]LogAIModule: Creating AISystem for world TestStreamLevel
+[2019.12.15-03.08.39:386][392]LogAIModule: Creating AISystem for world TestStreamLevel
+[2019.12.15-03.08.39:395][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.15-03.08.39:440][392]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.12.15-03.08.39:441][392]LogEditorActor: Deleted 1 Actors (0.170 secs)
+[2019.12.15-03.08.40:624][489]LogAIModule: Creating AISystem for world Player_Flashlight_Test
+[2019.12.15-03.08.40:636][489]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test
+[2019.12.15-03.08.40:684][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.12.15-03.08.41:829][489]LogSlate: Window 'Save Content' being destroyed
+[2019.12.15-03.08.41:919][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ItemMap" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Levels/ItemMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.15-03.08.41:957][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.15-03.08.41:968][489]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: ItemMap, Actor: /Game/Levels/ItemMap.ItemMap:PersistentLevel.REINST_ItemMap_C_0
+[2019.12.15-03.08.42:257][489]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/ItemMap15A6F998417BDDFC3041649242F1BA74.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Levels/ItemMap.umap'
+[2019.12.15-03.08.42:260][489]LogFileHelpers: Saving map 'ItemMap' took 0.342
+[2019.12.15-03.08.42:261][489]Cmd: MAP LOAD FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Content/Levels/Player_Flashlight_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.15-03.08.42:261][489]LightingResults: New page: Lighting Build
+[2019.12.15-03.08.42:262][489]LoadErrors: New page: Loading map: Player_Flashlight_Test.umap
+[2019.12.15-03.08.42:264][489]LogWorld: UWorld::CleanupWorld for Player_Movement_Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.08.42:264][489]LogWorld: UWorld::CleanupWorld for ItemMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.08.42:265][489]MapCheck: New page: Map Check
+[2019.12.15-03.08.42:265][489]LightingResults: New page: Lighting Build
+[2019.12.15-03.08.42:309][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.12.15-03.08.42:349][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.12.15-03.08.42:387][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.15-03.08.42:428][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.15-03.08.42:476][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.15-03.08.42:516][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.15-03.08.42:592][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.15-03.08.42:637][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.15-03.08.42:674][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.15-03.08.42:674][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2019.12.15-03.08.42:674][489]LogFileHelpers: Loading map 'Player_Flashlight_Test' took 0.414
+[2019.12.15-03.08.42:750][489]LogAIModule: Creating AISystem for world ItemMap
+[2019.12.15-03.08.42:794][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.15-03.08.43:213][530]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-03.08.43:248][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.08.43:249][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-03.08.43:249][530]PIE: New page: PIE session: Player_Flashlight_Test (Dec 14, 2019, 3:08:43 PM)
+[2019.12.15-03.08.43:250][530]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player_Flashlight_Test
+[2019.12.15-03.08.43:252][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002269s)
+[2019.12.15-03.08.43:253][530]LogAIModule: Creating AISystem for world Player_Flashlight_Test
+[2019.12.15-03.08.43:253][530]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2019.12.15-03.08.43:253][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test to /Game/Levels/UEDPIE_0_Player_Flashlight_Test.Player_Flashlight_Test (0.003789s)
+[2019.12.15-03.08.43:295][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.15-03.08.43:331][530]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-03.08.43:341][530]LogInit: FAudioDevice initialized.
+[2019.12.15-03.08.43:352][530]LogLoad: Game class is 'GameModeBase'
+[2019.12.15-03.08.43:353][530]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player_Flashlight_Test.Player_Flashlight_Test up for play (max tick rate 0) at 2019.12.14-21.08.43
+[2019.12.15-03.08.43:353][530]LogWorld: Bringing up level for play took: 0.000752
+[2019.12.15-03.08.43:354][530]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.15-03.08.43:356][530]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Player_Flashlight_Test 0.2
+[2019.12.15-03.08.43:356][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.08.47:512][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.08.47:512][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.08.47:513][ 15]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player_Flashlight_Test
+[2019.12.15-03.08.47:513][ 15]LogWorld: UWorld::CleanupWorld for Player_Flashlight_Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.08.47:521][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-03.08.47:521][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.08.47:561][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.08.47:566][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.15-03.08.47:611][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.15-03.08.53:213][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.15-03.08.53:220][661]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.15-03.09.19:615][984]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.15-03.09.19:651][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.09.19:651][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.15-03.09.19:651][984]PIE: New page: PIE session: Player_Flashlight_Test (Dec 14, 2019, 3:09:19 PM)
+[2019.12.15-03.09.19:652][984]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player_Flashlight_Test
+[2019.12.15-03.09.19:654][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002388s)
+[2019.12.15-03.09.19:655][984]LogAIModule: Creating AISystem for world Player_Flashlight_Test
+[2019.12.15-03.09.19:655][984]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2019.12.15-03.09.19:655][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test to /Game/Levels/UEDPIE_0_Player_Flashlight_Test.Player_Flashlight_Test (0.003819s)
+[2019.12.15-03.09.19:698][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.15-03.09.19:735][984]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.15-03.09.19:745][984]LogInit: FAudioDevice initialized.
+[2019.12.15-03.09.19:753][984]LogLoad: Game class is 'SlendyMode_C'
+[2019.12.15-03.09.19:754][984]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player_Flashlight_Test.Player_Flashlight_Test up for play (max tick rate 0) at 2019.12.14-21.09.19
+[2019.12.15-03.09.19:754][984]LogWorld: Bringing up level for play took: 0.000718
+[2019.12.15-03.09.19:755][984]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.15-03.09.19:756][984]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.15-03.09.19:757][984]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Player_Flashlight_Test 0.603
+[2019.12.15-03.09.19:758][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.09.27:029][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.09.27:030][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.09.27:030][836]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player_Flashlight_Test
+[2019.12.15-03.09.27:030][836]LogWorld: UWorld::CleanupWorld for Player_Flashlight_Test, bSessionEnded=true, bCleanupResources=true
+[2019.12.15-03.09.27:039][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.15-03.09.27:040][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test' with GeneratedClass '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test_C' with ClassGeneratedBy '/Game/Levels/Player_Flashlight_Test.Player_Flashlight_Test:PersistentLevel.Player_Flashlight_Test'
+[2019.12.15-03.09.27:085][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.15-03.09.27:090][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.12.15-03.09.27:137][839]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.15-03.09.27:994][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.15-03.09.52:327][738]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widget/FadeinText.FadeinText
+[2019.12.15-03.18.52:058][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.12.15-03.18.52:349][947]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Player_Flashlight_Test_Auto354EABC254F24622E7B6A088FC62E60FF.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Levels/Player_Flashlight_Test_Auto3.umap'
+[2019.12.15-03.18.52:352][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Player_Flashlight_Test' took 0.341
+[2019.12.15-03.18.52:352][947]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
+[2019.12.15-03.18.52:354][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/The_Player] ([1] browsable assets)...
+[2019.12.15-03.18.52:354][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/The_Player]
+[2019.12.15-03.18.52:355][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/The_Player" FILE="../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Blueprints/The_Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.12.15-03.18.52:410][947]LogSavePackage: Moving '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/The_Player_Auto3FA44E73C45EAE40B180E1CB4366B08CD.tmp' to '../../../../../Repo's/SlenderRedux/SlenderRemaster/Saved/Autosaves/Game/Blueprints/The_Player_Auto3.uasset'
+[2019.12.15-03.18.52:411][947]LogFileHelpers: Auto-saving content packages took 0.057
