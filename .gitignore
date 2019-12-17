@@ -2,3 +2,5 @@
 SlenderRemaster/Saved/Logs/SlenderRemaster.log
 SlenderRemaster/Intermediate/CachedAssetRegistry.bin
 *.log
+*.bin
+*.json
