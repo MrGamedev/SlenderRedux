@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 ﻿Log file open, 12/16/19 19:16:27
@@ -1704,6 +1705,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 >>>>>>> parent of 982f767... Drastic changes
 =======
 ﻿Log file open, 12/17/19 16:44:13
+=======
+﻿Log file open, 12/15/19 19:25:15
+>>>>>>> parent of 982f767... Drastic changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -1714,7 +1718,11 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: SlenderRemaster
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 52.215440
+=======
+LogStats: Stats thread started at 5.297622
+>>>>>>> parent of 982f767... Drastic changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -1862,6 +1870,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.12.17-16.44.26:183][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.12.17-16.44.26:183][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.12.17-16.44.26:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/frcjr/Documents/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
@@ -2656,3 +2665,473 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.17-16.54.16:774][  1]LogExit: Exiting.
 [2019.12.17-16.54.16:844][  1]Log file closed, 12/17/19 16:54:16
 >>>>>>> Stashed changes
+=======
+[2019.12.15-19.25.21:405][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.15-19.25.21:405][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.15-19.25.21:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:406][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.15-19.25.21:522][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.15-19.25.21:522][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:522][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.15-19.25.21:522][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.15-19.25.21:523][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.15-19.25.21:524][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.15-19.25.21:534][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.15-19.25.21:549][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.15-19.25.21:628][  0]LogHAL: Display: Platform has ~ 8 GB [8467877888 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.15-19.25.21:628][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.15-19.25.21:628][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.15-19.25.21:628][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Scalability.ini]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.15-19.25.21:629][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.15-19.25.21:676][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.15-19.25.21:677][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.15-19.25.21:677][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Saved/Config/Windows/Engine.ini]
+[2019.12.15-19.25.21:691][  0]LogInit: Computer: LAPTOP-1HEB5CJ2
+[2019.12.15-19.25.21:691][  0]LogInit: User: frcjr
+[2019.12.15-19.25.21:691][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.15-19.25.21:691][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.15-19.25.21:691][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.15-19.25.21:691][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.15-19.25.21:691][  0]LogMemory: Process Physical Memory: 101.40 MB used, 101.40 MB peak
+[2019.12.15-19.25.21:691][  0]LogMemory: Process Virtual Memory: 98.46 MB used, 98.46 MB peak
+[2019.12.15-19.25.21:691][  0]LogMemory: Physical Memory: 5570.25 MB used,  2505.34 MB free, 8075.60 MB total
+[2019.12.15-19.25.21:691][  0]LogMemory: Virtual Memory: 4653.87 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.15-19.25.21:750][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.15-19.25.23:622][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.15-19.25.23:622][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.15-19.25.23:756][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.15-19.25.25:392][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.15-19.25.26:336][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.15-19.25.26:336][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.15-19.25.34:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.15-19.25.34:966][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.15-19.25.36:668][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.15-19.25.36:668][  0]LogD3D11RHI:       1977/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.15-19.25.36:683][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.15-19.25.36:683][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.15-19.25.36:745][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.15-19.25.36:745][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.15-19.25.36:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.15-19.25.36:813][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.15-19.25.36:813][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.15-19.25.36:813][  0]LogWindows: EnumDisplayDevices:
+[2019.12.15-19.25.36:813][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.15-19.25.36:813][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.15-19.25.36:813][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.15-19.25.36:814][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.12.15-19.25.36:814][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.12.15-19.25.36:814][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.15-19.25.36:814][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.12.15-19.25.36:814][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.12.15-19.25.36:814][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.12.15-19.25.37:007][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.15-19.25.37:367][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.15-19.25.39:300][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.15-19.25.39:367][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.15-19.25.39:395][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.15-19.25.39:478][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.15-19.25.39:610][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.15-19.25.39:686][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.15-19.25.39:715][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.15-19.25.39:733][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.15-19.25.39:788][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.15-19.25.39:970][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.15-19.25.40:050][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.15-19.25.40:237][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.15-19.25.40:237][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.15-19.25.40:304][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.15-19.25.40:304][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.15-19.25.40:336][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.15-19.25.40:388][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.15-19.25.40:418][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.15-19.25.40:576][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.15-19.25.40:642][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.15-19.25.40:642][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.15-19.25.40:642][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.15-19.25.41:089][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.15-19.25.42:752][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/Intermediate/Shaders/WorkingDirectory/6772/).
+[2019.12.15-19.25.42:753][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/frcjr/AppData/Local/Temp/UnrealShaderWorkingDir/3686762F4FE7AD55778A32846F0D93A2/'.
+[2019.12.15-19.25.42:796][  0]LogXGEController: Cleaning working directory: C:/Users/frcjr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.15-19.25.42:827][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.15-19.25.42:844][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.15-19.25.42:844][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.15-19.25.56:192][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.15-19.25.57:262][  0]LogDerivedDataCache: Loaded boot cache 1.03s 73MB C:/Users/frcjr/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.15-19.25.57:262][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/frcjr/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.15-19.25.57:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.15-19.25.57:262][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.15-19.25.57:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/frcjr/Documents/Unreal Projects/SlenderRedux/SlenderRemaster/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.15-19.25.57:262][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.15-19.25.57:557][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.15-19.25.57:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.15-19.25.57:557][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.15-19.25.57:559][  0]LogDerivedDataCache: Using Local data cache path C:/Users/frcjr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.15-19.25.57:559][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.15-19.25.57:559][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.15-19.25.59:171][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.15-19.26.01:662][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1734
+[2019.12.15-19.26.01:662][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1733
+[2019.12.15-19.26.01:662][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1732
+[2019.12.15-19.26.01:662][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.15-19.26.01:807][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1731
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1730
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1729
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1728
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1727
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1726
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1725
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1724
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1723
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1722
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1721
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1720
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1719
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1718
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1717
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1716
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1715
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1714
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1713
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1712
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1711
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1710
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1709
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1708
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1707
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1706
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1705
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1704
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1703
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1702
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1701
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1700
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1699
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1698
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1697
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1696
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1695
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1694
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1693
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1692
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1691
+[2019.12.15-19.26.05:214][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1690
+[2019.12.15-19.26.05:215][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1689
+[2019.12.15-19.26.05:215][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1688
+[2019.12.15-19.26.05:215][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1687
+[2019.12.15-19.26.05:215][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1686
+[2019.12.15-19.26.05:215][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2019.12.15-19.26.15:577][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1685
+[2019.12.15-19.26.15:577][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1684
+[2019.12.15-19.26.15:577][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1683
+[2019.12.15-19.26.15:577][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1682
+[2019.12.15-19.26.15:577][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1681
+[2019.12.15-19.26.15:577][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1680
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1679
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1678
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1677
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1676
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1675
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1674
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1673
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1672
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1671
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1670
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1669
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1668
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1667
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1666
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1665
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1664
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1663
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1662
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1661
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1660
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1659
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1658
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1657
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1656
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1655
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1654
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1653
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1652
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1651
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1650
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1649
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1648
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1647
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1646
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1645
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1644
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1643
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1642
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1641
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1640
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1639
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1638
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1637
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1636
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1635
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1634
+[2019.12.15-19.26.15:578][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1633
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1632
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1631
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1630
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1629
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1628
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1627
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1626
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1625
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1624
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1623
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1622
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1621
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1620
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1619
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1618
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1617
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1616
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1615
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1614
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1613
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1612
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1611
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1610
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1609
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1608
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1607
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1606
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1605
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1604
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1603
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1602
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1601
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1600
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1599
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1598
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1597
+[2019.12.15-19.26.15:579][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1596
+[2019.12.15-19.26.15:579][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1595
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1594
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1593
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1592
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1591
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1590
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1589
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1588
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1587
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1586
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1585
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1584
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1583
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1582
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1581
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1580
+[2019.12.15-19.26.18:316][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1579
+[2019.12.15-19.26.18:316][  0]LogMaterial: Display: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+>>>>>>> parent of 982f767... Drastic changes
