@@ -4,3 +4,9 @@ SlenderRemaster/Intermediate/CachedAssetRegistry.bin
 *.log
 *.bin
 *.json
+*.dmp
+*.runtime-xml
+*.bin
+*.log
+*.log
+*.log
