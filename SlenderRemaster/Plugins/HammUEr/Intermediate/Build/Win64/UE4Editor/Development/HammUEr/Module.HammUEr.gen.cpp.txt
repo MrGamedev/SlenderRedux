@@ -1,0 +1,8 @@
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUEr\Definitions.HammUEr.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Intermediate/Build/Win64/UE4Editor/Inc/HammUEr/HammUEr.init.gen.cpp
+E:\UE_4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Intermediate/Build/Win64/UE4Editor/Inc/HammUEr/HammUErObjects.gen.cpp
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Source\HammUEr/Classes/HammUErObjects.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUErRuntime\HammUErRuntimeClasses.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\intermediate\build\win64\ue4editor\inc\hammuer\HammUErObjects.generated.h

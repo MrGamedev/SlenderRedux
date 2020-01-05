@@ -1,0 +1,270 @@
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUEr\Definitions.HammUEr.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/a_stb_dxt.cpp
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\a_stb_dxt.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErPrivatePCH.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUEr.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErSettings.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErPrivatePCH.h
+E:\UE_4\UE_4.24\Engine\Source\Developer\RawMesh\Public\RawMesh.h
+E:\UE_4\UE_4.24\Engine\Source\Developer\MeshUtilities\Public\MeshUtilities.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Public\SkelImport.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODImporterData.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+e:\ue_4\ue_4.24\engine\source\runtime\core\public\math\GenericOctreePublic.h
+e:\ue_4\ue_4.24\engine\source\runtime\core\public\math\GenericOctree.inl
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Public\MeshBuild.h
+E:\UE_4\UE_4.24\Engine\Source\Developer\MeshMergeUtilities\Public\IMeshMergeUtilities.h
+E:\UE_4\UE_4.24\Engine\Source\Developer\MeshReductionInterface\Public\IMeshReductionInterfaces.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/HammUEr.cpp
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErStyle.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErCommands.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\SHammerDialogWidget.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErPrivatePCH.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapFileLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/BaseEntity.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\mapshared\VMFTri.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\mapshared\MAPVector.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MapLoaderBase.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\mapshared\MapArrayStructs.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MAPLoader/MAPLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\maploader\../MapShared/MAPNode.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\maploader\MAPSolid.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\maploader\../MapShared/BaseSolid.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\mapshared\MAPSide.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\mapshared\MAPPlane.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\D3/Doom3ProcLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\d3\Doom3Model.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\SourceVMF/VMFLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\sourcevmf\VMFSolid.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\sourcevmf\../MapShared/VMFLogic.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPSettings.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPSpotlight.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\mapshared\MAPLight.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPEnvironmentLight.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPPropStatic.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPOverlay.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPPropDynamic.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/VMFFuncInstance.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\InstanceDataHandler.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Source\HammUEr\Classes\HammUErObjects.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUErRuntime\HammUErRuntimeClasses.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUEr\HammUErObjects.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/core/public/misc/scopedslowtask.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Dialogs/DlgPickPath.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\SHammerPropUErWidget.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErPrivatePCH.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\SHammerSettingsWidget.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErPrivatePCH.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/selection.H
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Selection.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Appframework/public/widgets/colors/SColorPicker.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/slate/public/widgets/notifications/snotificationlist.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/slate/public/framework/notifications/notificationmanager.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\SHammerTextUErWidget.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\HammUErPrivatePCH.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SProgressbar.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+e:\ue_4\ue_4.24\engine\source\runtime\assetregistry\public\IAssetRegistry.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+e:\ue_4\ue_4.24\engine\source\editor\leveleditor\public\ILevelEditor.h
+e:\ue_4\ue_4.24\engine\source\editor\leveleditor\public\ViewportTypeDefinition.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/HammUErCommands.cpp
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/HammUErObjects.cpp
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/CollisionProfile.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/HammUErSettings.cpp
+E:\UE_4\UE_4.24\Engine\Source\Developer\DesktopPlatform\Public\DesktopPlatformModule.h
+e:\ue_4\ue_4.24\engine\source\developer\desktopplatform\public\IDesktopPlatform.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\../Private/GeomFitUtils.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Core/Public/Misc/FileHelper.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Materials/MaterialInstance.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/HammUErStyle.cpp
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+e:\ue_4\ue_4.24\engine\source\runtime\projects\public\ModuleDescriptor.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+e:\ue_4\ue_4.24\engine\source\runtime\projects\public\CustomBuildSteps.h
+e:\ue_4\ue_4.24\engine\source\runtime\projects\public\LocalizationDescriptor.h
+e:\ue_4\ue_4.24\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/InstanceDataHandler.cpp
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/MapFileLoader.cpp
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPConverters.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPFuncBrush.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/VMFLogicAuto.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/VMFLogicRelay.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPFuncPhysBox.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\MapShared/MAPPath.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\../../HammUErRuntime/Public/HammUErRuntimeClasses.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuerruntime\public\HammUErInterfaces.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUErRuntime\HammUErInterfaces.generated.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUErRuntime\HammUErRuntimeClasses.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVertexColor.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionVertexColor.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/Note.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Note.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/PointLight.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Light.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Light.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLight.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/SpotLight.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLight.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/DirectionalLight.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DirectionalLight.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/DecalActor.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalActor.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Engine/StaticMeshActor.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Components/SpotLightComponent.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/PointLightComponent.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/LocalLightComponent.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/LightComponent.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/LightComponentBase.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponentBase.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LightComponent.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalLightComponent.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PointLightComponent.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpotLightComponent.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Classes/Components/DecalComponent.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DecalComponent.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Editor/UnrealEd/Public/FileHelpers.h
+E:\UE_4\UE_4.24\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+e:\ue_4\ue_4.24\engine\source\developer\sourcecontrol\public\ISourceControlOperation.h
+e:\ue_4\ue_4.24\engine\source\developer\sourcecontrol\public\ISourceControlState.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Editor/UnrealEd/Classes/Factories/MaterialFactoryNew.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialFactoryNew.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Public\ObjectTools.h
+E:\UE_4\UE_4.24\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/SHammerDialogWidget.cpp
+E:\UE_4\UE_4.24\Engine\Source\Editor\PropertyEditor\Public\PropertyCustomizationHelpers.h
+e:\ue_4\ue_4.24\engine\source\editor\propertyeditor\public\IDetailCustomNodeBuilder.h
+e:\ue_4\ue_4.24\engine\source\editor\propertyeditor\public\DetailWidgetRow.h
+e:\ue_4\ue_4.24\engine\source\editor\propertyeditor\public\SResetToDefaultMenu.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\ActorPickerMode\Public\ActorPickerMode.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\SceneDepthPickerMode\Public\SceneDepthPickerMode.h
+e:\ue_4\ue_4.24\engine\source\editor\propertyeditor\public\IDetailPropertyRow.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Engine/Public/EngineUtils.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DamageType.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioVolume.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSettings.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSeparator.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SHeader.h
+E:\UE_4\UE_4.24\Engine\Source\Editor/MainFrame/Public/Interfaces/IMainFrameModule.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/SHammerPropUErWidget.cpp
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\ModelFormats/SMDLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\modelformats\BaseModelLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\ModelFormats/MDLLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\ModelFormats/LWOLoader.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\ModelFormats/ASELoader.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/Slate/Public/Widgets/Input/SRotatorInputBox.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\ArrayStructs.h
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuer\private\TextureManipulation.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\locale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocbuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocmes
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xloctime
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/SHammerSettingsWidget.cpp
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Input/SNumericEntryBox.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorBlock.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVectorinputBox.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/SHammerTextUErWidget.cpp
+E:\UE_4\UE_4.24\Engine\Source\Editor/UnrealEd/Classes/Factories/MaterialInstanceConstantFactoryNew.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialInstanceConstantFactoryNew.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/ImageWrapper/Public/IImageWrapper.h
+E:\UE_4\UE_4.24\Engine\Source\Runtime/ImageWrapper/Public/IImageWrapperModule.h
+E:\UE_4\UE_4.24\Engine\Source\Developer/AssetTools/Public/AssetToolsModule.h
+e:\ue_4\ue_4.24\engine\source\developer\assettools\public\IAssetTools.h
+e:\ue_4\ue_4.24\engine\source\developer\assettools\public\AssetTypeCategories.h
+e:\ue_4\ue_4.24\engine\source\developer\assettools\public\IAssetTypeActions.h
+E:\UE_4\UE_4.24\Engine\Source\Developer/Merge/Public/Merge.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+E:\UE_4\UE_4.24\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+E:\UE_4\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUEr/Private/TextureManipulation.cpp

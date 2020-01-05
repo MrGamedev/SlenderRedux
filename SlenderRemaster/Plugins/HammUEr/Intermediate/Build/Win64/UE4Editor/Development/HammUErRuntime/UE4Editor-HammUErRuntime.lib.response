@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HammUErRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Intermediate\Build\Win64\PluginUpgradeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUErRuntime\Module.HammUErRuntime.cpp.obj"
+"C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUErRuntime\Module.HammUErRuntime.gen.cpp.obj"
+"C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUErRuntime\Default.rc2.res"
+/OUT:"C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUErRuntime\UE4Editor-HammUErRuntime.lib"
+/INCLUDE:IMPLEMENT_MODULE_HammUErRuntime

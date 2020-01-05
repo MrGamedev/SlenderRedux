@@ -1,0 +1,9 @@
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUErRuntime\Definitions.HammUErRuntime.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUErRuntime/Private/HammUErInterfaces.cpp
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Source\HammUErRuntime\Public\HammUErInterfaces.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUErRuntime\HammUErInterfaces.generated.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUErRuntime/Private/HammUErRuntime.cpp
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Source\HammUErRuntime\Public\HammUErRuntime.h
+C:/Users/donov/Documents/Unreal Projects/PluginUpgrade/Plugins/HammUEr/Source/HammUErRuntime/Private/HammUErRuntimeClasses.cpp
+c:\users\donov\documents\unreal projects\pluginupgrade\plugins\hammuer\source\hammuerruntime\private\../Public/HammUErRuntimeClasses.h
+C:\Users\donov\Documents\Unreal Projects\PluginUpgrade\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Inc\HammUErRuntime\HammUErRuntimeClasses.generated.h
